@@ -1,7 +1,13 @@
+
+
 <div align="center">
+  
   <img src="https://jusmarktech.com/public/a/images/pages/web_development.gif"/>
- <h1 align="center">Hey There, I'm Sanjith!<img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="80px"/></h1>
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=en3rypt.visitor-badge)"/>
+  <h1 align="center">Hey There, I'm Sanjith!<img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="80px"/></h1>
   <p align="center">I'm a Web Development enthusiast, currently learning <a href="https://www.mongodb.com/mern-stack">MERN stack.</a> I'm a Second Year Computer Science student at <a href="https://www.psgtech.edu/">PSG College Of Technology.</a></p><br>
+
+<h2 align="center">I've worked with</h2>
 
 
 ![](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -32,11 +38,19 @@
 <a href="https://www.hackerrank.com/sanjith_t" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="sanjith_t"  /></a>
 <a href="https://discord.gg/kQqCMt2cGF" target="blank"><img align="center" src="https://img.shields.io/badge/discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="kQqCMt2cGF"  /></a>
 </div>
-<p>
+<br><h2 align="center">Stats</h2>
   
-  <br><br><img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=en3rypt&hide_border=true&theme=algolia&date_format=M%20j%5B%2C%20Y%5D"/>&nbsp;&nbsp;&nbsp;
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=en3rypt&hide_border=true&show_icons=true&theme=algolia" />
+<div>
+  <p>
+    <img align="left" width=400 src="https://github-readme-streak-stats.herokuapp.com?user=en3rypt&hide_border=true&theme=algolia&date_format=M%20j%5B%2C%20Y%5D"/>&nbsp;&nbsp;&nbsp;
+    <img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=en3rypt&hide_border=true&show_icons=true&theme=algolia" />
+
+  </p><br>
   
-  <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=en3rypt&hide_border=true&layout=compact&theme=algolia" />
-</p>
+ </div>
+  <br><br><br><br><br>
+  <div>
+    
+  <img align="center" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=en3rypt&hide_border=true&layout=compact&theme=algolia" />
+  </div>
 </div>
