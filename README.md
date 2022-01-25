@@ -1,8 +1,5 @@
-<!-- https://wallup.net/wp-content/uploads/2018/09/25/621435-minimalism-programming-HTML.jpg -->
-<!-- https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif -->
 <div align="center">
   <img src="https://jusmarktech.com/public/a/images/pages/web_development.gif"/>
-  
  <h1 align="center">Hey There, I'm Sanjith!<img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="80px"/></h1>
   <p align="center">I'm a Web Development enthusiast, currently learning <a href="https://www.mongodb.com/mern-stack">MERN stack.</a> I'm a Second Year Computer Science student at <a href="https://www.psgtech.edu/">PSG College Of Technology.</a></p><br>
 
@@ -29,15 +26,12 @@
 
 <br><h2 align="center">Connect with me!</h2>
 <div align="center">
-
 <a href="https://linkedin.com/in/sanjitht" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="sanjitht"  /></a>
 <a href="https://instagram.com/en3rypt" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="en3rypt"/></a>
 <a href="https://www.youtube.com/c/codesploit" target="blank"><img align="center" src="https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="codesploit" /></a>
 <a href="https://www.hackerrank.com/sanjith_t" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="sanjith_t"  /></a>
 <a href="https://discord.gg/kQqCMt2cGF" target="blank"><img align="center" src="https://img.shields.io/badge/discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="kQqCMt2cGF"  /></a>
-
 </div>
-
 <p>
   
   <br><br><img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=en3rypt&hide_border=true&theme=algolia&date_format=M%20j%5B%2C%20Y%5D"/>&nbsp;&nbsp;&nbsp;
@@ -46,7 +40,3 @@
   <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=en3rypt&hide_border=true&layout=compact&theme=algolia" />
 </p>
 </div>
-
-
-
-
