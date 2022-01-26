@@ -43,12 +43,12 @@
 <div>
   <p>
     <img align="left" width=400 src="https://github-readme-streak-stats.herokuapp.com?user=en3rypt&hide_border=true&theme=algolia&date_format=M%20j%5B%2C%20Y%5D"/>&nbsp;&nbsp;&nbsp;
-    <img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=en3rypt&hide_border=true&show_icons=true&theme=algolia" />
+    <img align="right" width=380 src="https://github-readme-stats.vercel.app/api?username=en3rypt&hide_border=true&show_icons=true&theme=algolia" />
   </p>
  </div>
   <br><br><br><br><br>
   <div>
     
-  <img align="center" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=en3rypt&hide_border=true&layout=compact&theme=algolia" />
+  <img align="center" width=380 src="https://github-readme-stats.vercel.app/api/top-langs/?username=en3rypt&hide_border=true&layout=compact&theme=algolia" />
   </div>
 </div>
