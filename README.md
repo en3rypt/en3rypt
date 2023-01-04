@@ -5,7 +5,7 @@
   <img src="https://jusmarktech.com/public/a/images/pages/web_development.gif"/>
   
   <h1 align="center">Hey There, I'm Sanjith!<img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="80px"/></h1>
-  <p align="center">I'm a Web Development enthusiast, currently learning <a href="https://www.mongodb.com/mern-stack">MERN stack.</a> I'm a Second Year Computer Science student at <a href="https://www.psgtech.edu/">PSG College Of Technology.</a></p><br>
+  <p align="center">I'm a Web Development enthusiast, currently learning <a href="https://www.mongodb.com/mern-stack">MERN stack.</a> I'm a Third Year Computer Science student at <a href="https://www.psgtech.edu/">PSG College Of Technology.</a></p><br>
 
 <h2 align="center">I've worked with</h2>
 
