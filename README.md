@@ -33,7 +33,7 @@
 <br><h2 align="center">Connect with me!</h2>
 <div align="center">
 <a href="https://linkedin.com/in/sanjitht" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="sanjitht"  /></a>
-<a href="https://instagram.com/en3rypt" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="en3rypt"/></a>
+<a href="https://instagram.com/sanjith_t_" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="en3rypt"/></a>
 </div>
 <br><h2 align="center">Stats</h2>
   
